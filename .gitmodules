@@ -9,3 +9,6 @@
 [submodule "contracts/lib/safe-contracts"]
 	path = contracts/lib/safe-contracts
 	url = https://github.com/safe-global/safe-contracts
+[submodule "contracts/lib/zodiac-guard-scope"]
+	path = contracts/lib/zodiac-guard-scope
+	url = https://github.com/gnosis/zodiac-guard-scope
